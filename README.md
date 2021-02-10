@@ -1,5 +1,9 @@
 LoopBack SDK Builder 
 ==================
+This project is a fork of [@mean-expert/loopback-sdk-builder](https://github.com/mean-expert-official/loopback-sdk-builder), updated to angular 10+ and added a few specific changes I needed.
+
+# Original Readme
+
 > Disclaimer: This project is not longer directly extended or improved by the author Jonathan Casarrubias, though any PRs improving or extending the SDK Builder are continuously being accepted and integrated in a weekly basis. Therefore, this module keeps growing as long as the community keeps sending patches.
 
 The [@mean-expert/loopback-sdk-builder](https://www.npmjs.com/package/@mean-expert/loopback-sdk-builder) is a community driven module forked from the official `loopback-sdk-angular` and refactored to support [Angular 2+](http://angular.io).
